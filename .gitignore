@@ -1,0 +1,6 @@
+*
+!.gitignore
+!ldapbot.py
+!ldapdirectorybot.py
+!families/hampedia-family.py
+!user-config.py
